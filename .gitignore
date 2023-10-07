@@ -1,0 +1,12 @@
+# datas
+
+data/
+test/
+train/
+model/
+
+
+# environment
+
+*env/
+*venv/
